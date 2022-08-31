@@ -1,2 +1,2 @@
-# git-workshop
+# workshop
 Çalışma 210722
